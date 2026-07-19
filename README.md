@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
