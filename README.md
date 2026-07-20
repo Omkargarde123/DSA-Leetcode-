@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
