@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
