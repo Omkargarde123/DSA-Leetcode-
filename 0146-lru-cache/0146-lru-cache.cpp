@@ -1,11 +1,8 @@
-#include <unordered_map>
-using namespace std;
-
 class LRUCache {
     struct Node {
         int key, val;
         Node *prev, *next;
-        Node(int k, int v) : key(k), val(v), prev(nullptr), next(nullptr) {}
+      Node(int k, int v) : key(k), val(v), prev(nullptr), next(nullptr) {}
     };
 
     int cap;
@@ -14,11 +11,11 @@ class LRUCache {
     Node *tail = new Node(-1, -1);
 
     void addNode(Node* newNode) {
-        Node* temp = head->next;
-        newNode->next = temp;
+        Node* oldnext = head->next;
+        newNode->next = oldnext;
         newNode->prev = head;
         head->next = newNode;
-        temp->prev = newNode;
+        oldnext->prev = newNode;
     }
 
     void deleteNode(Node* delNode) {
