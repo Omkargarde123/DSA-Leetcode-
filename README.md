@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3620-network-recovery-pathways) |
