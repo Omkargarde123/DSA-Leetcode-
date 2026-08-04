@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
