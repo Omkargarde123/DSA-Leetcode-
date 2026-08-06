@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
