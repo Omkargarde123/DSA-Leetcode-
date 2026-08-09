@@ -350,9 +350,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
