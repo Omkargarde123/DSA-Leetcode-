@@ -9,9 +9,9 @@ public:
             dp[i][i] = nums[i];
         }
 
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
+        for (int length= 2; length <= n; length++) {
+            for (int i = 0; i <= n - length; i++) {
+                int j = i + length - 1;
                 dp[i][j] = max(nums[i] - dp[i + 1][j], nums[j] - dp[i][j - 1]);
             }
         }
