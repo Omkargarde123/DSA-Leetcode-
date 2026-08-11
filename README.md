@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -373,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
