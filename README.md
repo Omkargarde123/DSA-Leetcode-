@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,16 +381,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
