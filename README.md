@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
