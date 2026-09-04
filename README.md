@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
