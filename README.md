@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0210-course-schedule-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3310-remove-methods-from-project) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
