@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0210-course-schedule-ii) |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -452,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
