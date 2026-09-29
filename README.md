@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -509,4 +512,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
