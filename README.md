@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
