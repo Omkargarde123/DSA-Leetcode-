@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1140-stone-game-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Omkargarde123/DSA-Leetcode-/tree/master/0877-stone-game) |
