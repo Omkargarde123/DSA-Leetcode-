@@ -1,7 +1,3 @@
-#include <vector>
-#include <algorithm>
-#include <numeric>
-
 class Solution {
 public:
     int minMoves(std::vector<int>& nums) {
